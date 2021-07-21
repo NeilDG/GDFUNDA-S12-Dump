@@ -145,7 +145,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7074830557030733560}
   m_Layer: 0
-  m_Name: WhiteRoom
+  m_Name: JoyaPrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
